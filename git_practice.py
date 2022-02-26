@@ -12,4 +12,7 @@ class nameone():
     pass 
 
 class name(models.Manager):
+class student(models.Manager):
+    PASS
+class school(models.Manager):
     PASS
