@@ -3,7 +3,8 @@ from django.db.models.functions import Coalesce
 
 
 class manana(models.Manager):
-    PASS 
-    
- 
- 
+    PASS
+
+
+class name(models.Manager):
+    PASS
