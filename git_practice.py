@@ -12,3 +12,10 @@ class manana(models.Manager):
 class OpinionPoll(models.Model):
     question = models.CharField(max_length=200)
     objects = PollManager()
+
+    
+class Opinionchain(models.Model):
+    qudffdfon = models.CharField(max_length=200)
+    objectsddsfsdfs = PollManager()
+
+ 
