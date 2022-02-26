@@ -14,8 +14,8 @@ class OpinionPoll(models.Model):
     objects = PollManager()
 
     
-class Opinionchain(models.Model):
+class Rename(models.Model):
     qudffdfon = models.CharField(max_length=200)
-    objectsddsfsdfs = PollManager()
+    objectsddsfsdfs = REname()
 
  
