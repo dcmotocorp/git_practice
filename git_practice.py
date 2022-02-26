@@ -3,8 +3,15 @@ from django.db.models.functions import Coalesce
 
 
 class manana(models.Manager):
+    commenr
     def with_counts(self):
-        return self.annotate(
+        comments 
+        return reopjhf ijn 
+    dfjf l
+     df;;sjopf 
+        fdjf 
+        self.annotate(
+            comnet
             num_responses=Coalesce(models.Count("response"), 0)
         )
 
